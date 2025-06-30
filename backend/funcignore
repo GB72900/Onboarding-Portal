@@ -1,0 +1,8 @@
+node_modules
+.git
+.vscode
+*.log
+local.settings.json
+tests
+README.md
+
