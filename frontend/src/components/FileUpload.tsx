@@ -23,7 +23,7 @@ const FileUpload: React.FC<Props> = ({ onUpload }) => {
 
       // Upload the file
       const uploadResponse = await axios.post(
-  `https://onboardapi.azurewebsites.net/api/uploadFile?filename=${encodeURIComponent(file.name)}&code=z5eFAocKwuipFa8AKnuM2tQF93vO_7TwZ3JfJFz7ZnfuAzFuI3ol5w==`,
+  `https://onboardapi.azurewebsites.net/api/uploadFile?filename=${encodeURIComponent(file.name)}&code=${import.meta.env.VITE_FunctionKey}`,
 
         await file.text(), // or send formData if your backend expects form
         {
