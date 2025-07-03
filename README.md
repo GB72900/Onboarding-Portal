@@ -1,6 +1,6 @@
 <h1>Onboarding & Secrets Portal</h1>
 
-### [Live Portal](https://your-deployed-site.azurewebsites.net/)
+### [Live Portal](https://green-hill-0b287d810.2.azurestaticapps.net)
 ### [Demo Walkthrough](https://youtu.be/your-demo-link)
 
 <h2>
