@@ -14,6 +14,12 @@
  </h2> <h2>Description</h2>
 This project is a secure, automated onboarding system designed for IT administrators. It allows admins to create new Azure AD users, upload sensitive documents, and send time-limited download links via email — all orchestrated with Azure Functions, Blob Storage, and Logic Apps. Files are automatically deleted after the recipient downloads or after a timeout.
 
+![github josh madakor - Search and 4 more pages - Personal - Microsoft​ Edge 7_3_2025 6_31_37 PM](https://github.com/user-attachments/assets/d7f0da59-5691-457a-95cc-d95b5aec2d88)
+
+![Workflow runs · GB72900_Onboarding-Portal and 2 more pages - Personal - Microsoft​ Edge 7_3_2025 6_28_11 PM](https://github.com/user-attachments/assets/69f998a5-b39b-4797-87d8-4f87f9e93e74)
+
+
+
 <br /> <p align="center"> <img src="https://i.imgur.com/YOUR_SCREENSHOT_URL.png" height="65%" width="65%" alt="Onboarding workflow UI"/> </p> <h2>Languages & Frameworks Used</h2>
 <b>Node.js (backend):</b> Azure Functions for API endpoints and MS Graph integration
 
