@@ -19,8 +19,7 @@ This project is a secure, automated onboarding system designed for IT administra
 ![Workflow runs · GB72900_Onboarding-Portal and 2 more pages - Personal - Microsoft​ Edge 7_3_2025 6_28_11 PM](https://github.com/user-attachments/assets/69f998a5-b39b-4797-87d8-4f87f9e93e74)
 
 
-
-<br /> <p align="center"> <img src="https://i.imgur.com/YOUR_SCREENSHOT_URL.png" height="65%" width="65%" alt="Onboarding workflow UI"/> </p> <h2>Languages & Frameworks Used</h2>
+ <h2>Languages & Frameworks Used</h2>
 <b>Node.js (backend):</b> Azure Functions for API endpoints and MS Graph integration
 
 <b>React (frontend):</b> Vite-based SPA with MSAL authentication
