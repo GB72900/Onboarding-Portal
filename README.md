@@ -37,7 +37,10 @@ This project is a secure, automated onboarding system designed for IT administra
 
 <b>SendGrid:</b> securely sends onboarding links
 
-<h2>Onboarding Flow</h2> <p align="center"> <img src="https://i.imgur.com/YOUR_DIAGRAM.png" height="65%" width="65%" alt="System Architecture"/> </p>
+<h2>Onboarding Flow</h2> 
+
+![Onboarding   Secrets Portal Flow drawio](https://github.com/user-attachments/assets/20fcd8ec-151c-44c0-a651-21b5b884f728)
+
 Admin signs into the portal via Azure AD
 
 Fills out new hire details + uploads onboarding documents
