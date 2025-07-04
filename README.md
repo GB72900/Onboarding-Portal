@@ -88,7 +88,5 @@ AzureWebJobsStorage – Blob Storage connection string
 
 TENANT_ID, CLIENT_ID, CLIENT_SECRET – Azure AD App credentials
 
-SENDGRID_API_KEY – API key for sending emails
-
 ![New tab - Personal - Microsoft​ Edge 7_3_2025 8_10_00 PM](https://github.com/user-attachments/assets/3be83197-1919-4dcd-bdd6-5c2ce588d7dc)
 
